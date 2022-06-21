@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=469px height=132px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=469px height=132px src="https://github.com/honyshyota/fire-base-repo/blob/master/images/Firebase_Logo.svg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Project Title</h3>

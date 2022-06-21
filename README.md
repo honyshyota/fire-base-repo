@@ -5,8 +5,6 @@
 
 <h3 align="center">User firebase API</h3>
 
-<div align="center">
-
 
 ---
 
